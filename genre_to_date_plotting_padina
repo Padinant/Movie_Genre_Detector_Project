@@ -1,0 +1,2 @@
+genre_to_date.json: The json file containing the number of movies in each decade for each genre. 
+date_genre_count_data: The code used to get to that json file using the data from data_plotting.csv
